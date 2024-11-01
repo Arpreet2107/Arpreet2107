@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **arpreet4114@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xDeSgKvbbiMHASx69Rv4mahFWGNtgtMO/view?usp=sharing](https://drive.google.com/file/d/1xDeSgKvbbiMHASx69Rv4mahFWGNtgtMO/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/-file/-d/1xDeS-gKvbbiMHASx69Rv4mahFWGNtgtMO/view?usp=sharing](https://drive.google.com/-file/-d/1xDeS-gKvbbiMHASx69Rv4mahFWGNtgtMO/view?usp=sharing)
 
 - ⚡ Fun fact **I love development and so does she.**
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
