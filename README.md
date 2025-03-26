@@ -29,7 +29,9 @@
 - 💬 Ask me about **React.js, Next.js, Redux, Java, Spring Boot, MySQL, SCRUM & Agile Methodologies**  
 - 📫 Reach me at **arpreet4114@gmail.com**  
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1l52b8NX7br8hvJENgKtj4F-aRYxxSVSy/view?usp=sharing)  
-<img align="right" height="150" src="https://images.app.goo.gl/yX5CkgToTBPgNaTK9" />
+<img align="right" height="150" src="https://media.giphy.com/media/your-gif-link.gif" />
+
+
 
 <!-- Horizontal divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
