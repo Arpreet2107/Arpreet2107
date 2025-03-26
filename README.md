@@ -18,7 +18,7 @@
 <!-- Animated Typing Effect -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Java+FullStack+Developer;Cloud+Engineer;DevOps;Aspiring+Data+Engineer;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Java+FullStack+Developer;Cloud+Engineer;DevOps;Aspiring+CLoud+Engineer;">
   </a>
 </p>
 
@@ -62,7 +62,7 @@
 <!-- Tech Stack Icons -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,aws,azure,docker,kubernetes,firebase,spring,c,html,mysql,mongodb,postgresql,javascript,typescript,react,nextjs,github&perline=14" />/*jenkins,*/
+    <img src="https://skillicons.dev/icons?i=java,aws,azure,docker,kubernetes,firebase,spring,c,html,mysql,mongodb,postgresql,javascript,typescript,react,nextjs,github&perline=14" />
   </a>
 </p>
 
