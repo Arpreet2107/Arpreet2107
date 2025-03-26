@@ -62,7 +62,7 @@
 <!-- Tech Stack Icons -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,aws,azure,docker,kubernetes,firebase,spring,c,html,mysql,mongodb,postgresql,jenkins,javascript,typescript,react,nextjs,github&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,aws,azure,docker,kubernetes,firebase,spring,c,html,mysql,mongodb,postgresql,javascript,typescript,react,nextjs,github&perline=14" />/*jenkins,*/
   </a>
 </p>
 
