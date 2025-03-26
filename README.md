@@ -28,7 +28,7 @@
 - 🤝 I’m looking for help with **Backend Development in Java**  
 - 💬 Ask me about **React.js, Next.js, Redux, Java, Spring Boot, MySQL, SCRUM & Agile Methodologies**  
 - 📫 Reach me at **arpreet4114@gmail.com**  
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1xDeS-gKvbbiMHASx69Rv4mahFWGNtgtMO/view?usp=sharing)  
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1l52b8NX7br8hvJENgKtj4F-aRYxxSVSy/view?usp=sharing)  
 - ⚡ Fun fact: **I love development, and so does she.**  
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
